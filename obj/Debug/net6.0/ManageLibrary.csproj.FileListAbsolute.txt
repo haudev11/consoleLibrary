@@ -1,0 +1,15 @@
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\bin\Debug\net6.0\ManageLibrary.exe
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\bin\Debug\net6.0\ManageLibrary.deps.json
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\bin\Debug\net6.0\ManageLibrary.runtimeconfig.json
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\bin\Debug\net6.0\ManageLibrary.dll
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\bin\Debug\net6.0\ref\ManageLibrary.dll
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\bin\Debug\net6.0\ManageLibrary.pdb
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.csproj.AssemblyReference.cache
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.AssemblyInfoInputs.cache
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.AssemblyInfo.cs
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.csproj.CoreCompileInputs.cache
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.dll
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ref\ManageLibrary.dll
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.pdb
+F:\Greenwich\1618_ProgrammingC#\asm2\ManageLibrary\ManageLibrary\obj\Debug\net6.0\ManageLibrary.genruntimeconfig.cache
